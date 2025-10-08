@@ -80,7 +80,7 @@ if cursor.fetchone()[0] == 0:
 
 # Insert mock data for products, sales, and purchases
 cursor.execute("SELECT COUNT(*) FROM products")
-if cursor.fetchone()[0] == 0:
+if cursor.fetchone()[0] < 20:
     cursor.executemany(
         "INSERT INTO products (name, quantity, price) VALUES (?, ?, ?)",
         [ # --- General Groceries ---
@@ -109,7 +109,7 @@ if cursor.fetchone()[0] == 0:
             ('Dried Oregano (bag)', 40, 65.00), 
             ('Black Pepper Corns', 50, 130.00),
             ('Paprika (can)', 35, 105.00), 
-            ('Bay Leaves (bag)', 30, 55.00) 
+            ('Bay Leaves (bag)', 30, 55.00), 
             ]
     )
 
@@ -660,8 +660,13 @@ def open_inventory_window(role):
         if not selected:
             messagebox.showwarning("Warning", "Select a product to record a purchase/restock.")
             return
-        product_details = tree.item(selected)['values']
-        purchase_transaction_window(root, product_details, refresh_table)
+        
+        # --- FIX AREA ---
+        values = tree.item(selected)['values']
+        # Convert the formatted price string back to a clean number string
+        raw_price_str = str(values[3]).replace(DISPLAY_CURRENCY, '').replace(',', '').strip()
+        # Pass the ID, Name, Quantity, and the raw price string
+        product_details = (values[0], values[1], values[2], raw_price_str)
 
 
     # --- Buttons (Updated to include transaction buttons) ---
@@ -736,4 +741,3 @@ def open_inventory_window(role):
 # -------------------------------
 if __name__ == "__main__":
     login_window()
-
