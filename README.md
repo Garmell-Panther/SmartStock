@@ -5,6 +5,24 @@ The project aims to address the inefficiencies of manual record-keeping by provi
 The system enables real-time updates, reduces human errors, and supports better decision-making for store owners. 
 This application demonstrates how an affordable and user-friendly software solution can significantly enhance productivity in small and medium-sized businesses.
 
+## Revisions
+### First Defense Attempt — Minor Improvement and Re-defense
+**Document:**
+- References are not well organized <br>
+
+**System**
+- UI/UX are not modern feel or looked
+- Improve UI/IX
+- Improve code structure
+- KNOW YOUR CODE
+
+## Second Defense Attempt - Approve Minor Revisions
+**Document**
+- None <br>
+
+**System**
+- The System is organized.
+
 ## Features
 **User Authentication System**  
 - Supports admin and staff logins with role-based access.
