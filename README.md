@@ -1,5 +1,5 @@
 
-<br> **_Abstract_** <br>
+## <br> **_Abstract_** <br>
 The SmartStock Inventory Management System is designed to automate and streamline the stock monitoring process of small grocery stores. 
 The project aims to address the inefficiencies of manual record-keeping by providing a digital system that manages products, tracks stock levels, and generates reports using Python, Mysqlite3 , and Tkinter. 
 The system enables real-time updates, reduces human errors, and supports better decision-making for store owners. 
