@@ -5,7 +5,7 @@ The project aims to address the inefficiencies of manual record-keeping by provi
 The system enables real-time updates, reduces human errors, and supports better decision-making for store owners. 
 This application demonstrates how an affordable and user-friendly software solution can significantly enhance productivity in small and medium-sized businesses.
 
-## 🛠️ Revisions
+## 🛠️ Revisions (Panel’s Advice or Recommendation)
 ### First Defense Attempt — Minor Improvement and Re-defense
 **_Document:_**
 - References are not well organized <br>
