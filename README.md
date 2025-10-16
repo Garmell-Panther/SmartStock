@@ -5,9 +5,9 @@ The project aims to address the inefficiencies of manual record-keeping by provi
 The system enables real-time updates, reduces human errors, and supports better decision-making for store owners. 
 This application demonstrates how an affordable and user-friendly software solution can significantly enhance productivity in small and medium-sized businesses.
 
-## Revisions
+## 🛠️ Revisions
 ### First Defense Attempt — Minor Improvement and Re-defense
-**Document:**
+**_Document:_**
 - References are not well organized <br>
 
 **System**
@@ -23,7 +23,7 @@ This application demonstrates how an affordable and user-friendly software solut
 **System**
 - The System is organized.
 
-## Features
+## 🧩 Features
 **User Authentication System**  
 - Supports admin and staff logins with role-based access.
 
@@ -48,7 +48,7 @@ This application demonstrates how an affordable and user-friendly software solut
 **Lightweight and Offline Capable**  
 - Runs locally without the need for internet access.
 
-## Documentation: <br>
+## 🧾 Documentation: <br>
 This is the login system in a **desktop** and **laptop** display. <br>
 <img width="424" height="455" alt="Login System" src="https://github.com/user-attachments/assets/b301b4d9-e9b3-430d-83bd-903f19e7db9b" />
 
@@ -60,7 +60,7 @@ This is the inventory system for **staff.** <br>
 
 
 
-## Powerpoint Presentation and Document for the Inventory System.
+## 📚 Powerpoint Presentation and Document for the Inventory System.
 <br> 
 Powerpoint Presentation: https://www.canva.com/design/DAG1GYUNVyQ/dDrmmIAXDva8KdS9CqNCmw/edit 
 <br>
