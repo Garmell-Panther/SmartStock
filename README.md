@@ -6,7 +6,7 @@ The system enables real-time updates, reduces human errors, and supports better 
 This application demonstrates how an affordable and user-friendly software solution can significantly enhance productivity in small and medium-sized businesses.
 
 ## 🛠️ Revisions (Panel’s Advice or Recommendation)
-### First Defense Attempt (10/9/2025) — Minor Improvement and Re-defense
+***First Defense Attempt (10/9/2025) — Minor Improvement and Re-defense***
 **_Document:_**
 - References are not well organized <br>
 
@@ -16,7 +16,7 @@ This application demonstrates how an affordable and user-friendly software solut
 - Improve code structure
 - KNOW YOUR CODE
 
-## Second Defense Attempt (10/14/2025) - Approve Minor Revisions
+***Second Defense Attempt (10/14/2025) - Approve Minor Revisions***
 **Document**
 - None <br>
 
@@ -61,7 +61,6 @@ This is the inventory system for **staff.** <br>
 
 
 ## 📚 Powerpoint Presentation and Document for the Inventory System.
-<br> 
 Powerpoint Presentation: https://www.canva.com/design/DAG1GYUNVyQ/dDrmmIAXDva8KdS9CqNCmw/edit 
 <br>
 Docs: https://docs.google.com/document/d/1Jid-D9bI7jF-6q_FnWELTtgfhSPe4P1BIwaQoHL6SQ8/edit?tab=t.rdrp9qygo1tl 
